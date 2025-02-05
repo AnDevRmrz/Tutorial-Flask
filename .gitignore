@@ -1,3 +1,4 @@
 .venv
 .idea
 flaskr/instance
+**/__pycache__/
